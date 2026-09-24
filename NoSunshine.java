@@ -20,11 +20,14 @@ public class NoSunshine {
    firstLine();
    line("It's not warm when she's away");
    firstLine();
+   line("And she's always gone too long");
    endLine();
    System.out.println(" ");
    twoLine();
    line("Wonder if she's gone to stay");
-   twoLine();
+   firstLine();
+   line("And this house just ain't no home");
+   endLine();
    line(" ");
    line("And I know, I know, I know, I know, I know");
    chorus();
