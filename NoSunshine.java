@@ -29,7 +29,7 @@ public class NoSunshine {
    line("And this house just ain't no home");
    endLine();
    line(" ");
-   line("And I know, I know, I know, I know, I know");
+   line("And I know, I know, I know, I know");
    chorus();
    chorus();
    chorus();
